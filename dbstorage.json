@@ -5,7 +5,7 @@
             "message": "update team leader",
             "attention": false,
             "date": "08-12-2021",
-            "engineer":"Ben Chauke",
+            "engineer":"Benedict Chauke",
             "status": "active"
         },
         {
@@ -13,7 +13,7 @@
             "message": "project ETA failed",
             "attention": true,
             "date": "08-12-2021",
-            "engineer":"Ben Chauke",
+            "engineer":"Benedict Chauke",
             "status": "idle"
         },
         {
@@ -21,7 +21,7 @@
             "message": "project in progress",
             "attention": false,
             "date": "08-12-2021",
-            "engineer":"Ben Chauke",
+            "engineer":"Benedict Chauke",
             "status": "active"
         },
         {
@@ -29,7 +29,7 @@
             "message": "project completed",
             "attention": false,
             "date": "08-12-2021",
-            "engineer":"Ben Chauke",
+            "engineer":"Benedict Chauke",
             "status": "passive"
         }
 
@@ -39,6 +39,11 @@
         {
             "id": 0000,
             "firstName": "Benedict",
+            "lastName" : "Chauke"
+        },
+        {
+            "id": 0001,
+            "firstName": "Isaac",
             "lastName" : "Chauke"
         }
 
