@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "json-server":"json-server --watch dbstorage.json --port 5000",
+    "json-server":"json-server --watch dbstorage.json --port 3000",
     "dev": "concurrently \"npm start\" \"npm run json-server\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
